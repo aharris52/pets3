@@ -10,6 +10,9 @@ require_once('vendor/autoload.php');
 //instantiate the F3 Base class
 $f3 = Base::instance();
 
+// define array
+$f3->set('colors', array('pink', 'green', 'blue'));
+
 //define a default route
 //when user visits the default root(file) - ...328/pets2
 //it runs the function
