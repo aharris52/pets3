@@ -1,0 +1,17 @@
+{
+"name": "lscottgr/328/pets2",
+"authors": [
+{
+  "name": "Andrew Harris",
+  "email": "aharris@mail.greenriver.edu"
+
+},
+{
+  "name": "Conner Anderson",
+  "email": "canderson109@mail.greenriver.edu"
+}
+],
+"require": {
+"bcosca/fatfree-core": "dev-master"
+}
+}
